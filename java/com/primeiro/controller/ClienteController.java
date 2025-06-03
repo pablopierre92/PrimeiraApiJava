@@ -14,6 +14,6 @@ public class ClienteController {
 
 	@GetMapping
 	public List<Cliente> listar() {
-		return ;
+		return a ;
 	}
 }
